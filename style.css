@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.ca-container{
+    width: 60%;
+    margin: auto;
+    border: 5px solid black;
+    overflow: hidden;
+}
+
+.ca-slide{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
